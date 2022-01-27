@@ -1,0 +1,51 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapa Estratégico - Alvo"
+    id="id-26d581aa772d4a2cab8c0d2e9b54d76f"
+    viewpoint="stakeholder">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-ba50b145f20648ce9127cfe9cb66de9a"
+      name="Financeiro"
+      textAlignment="1">
+    <bounds
+        x="228"
+        y="12"
+        width="829"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-d4c7d41f1d2c49e4a927caa4f3763c8a"
+      name="Cliente"
+      textAlignment="1">
+    <bounds
+        x="228"
+        y="144"
+        width="829"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-cd55765431a642bca1f156178508e344"
+      name="Processos Internos"
+      textAlignment="1">
+    <bounds
+        x="228"
+        y="276"
+        width="829"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-5dd83db577314ac1a3f64ff0db0241d3"
+      name="Aprendizado e Crescimento"
+      textAlignment="1">
+    <bounds
+        x="228"
+        y="408"
+        width="829"
+        height="121"/>
+  </children>
+</archimate:ArchimateDiagramModel>

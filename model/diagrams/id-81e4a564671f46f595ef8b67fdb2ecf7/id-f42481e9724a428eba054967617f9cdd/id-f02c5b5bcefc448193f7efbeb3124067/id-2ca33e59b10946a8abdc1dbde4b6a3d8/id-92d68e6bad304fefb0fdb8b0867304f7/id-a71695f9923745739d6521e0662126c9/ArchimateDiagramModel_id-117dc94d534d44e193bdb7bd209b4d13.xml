@@ -1,0 +1,39 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Value Streams - Alvo"
+    id="id-117dc94d534d44e193bdb7bd209b4d13">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-f7110437a02e4de4acece618b255d1b6"
+      name="Fluxos de Governança"
+      textAlignment="1">
+    <bounds
+        x="120"
+        y="24"
+        width="985"
+        height="133"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-03fed89a90f14c90881c16973be9c78b"
+      name="Fluxos de Suporte"
+      textAlignment="1">
+    <bounds
+        x="120"
+        y="336"
+        width="985"
+        height="205"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-c93f6dc053ae45b4b5a176806f9d1a8b"
+      name="Fluxos Fim"
+      textAlignment="1">
+    <bounds
+        x="120"
+        y="180"
+        width="985"
+        height="133"/>
+  </children>
+</archimate:ArchimateDiagramModel>

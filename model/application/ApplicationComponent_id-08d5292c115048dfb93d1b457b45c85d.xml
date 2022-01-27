@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cadastro de Clientes"
+    id="id-08d5292c115048dfb93d1b457b45c85d">
+  <properties
+      key="Owner"/>
+  <properties
+      key="Custodiante"/>
+  <properties
+      key="Fornecedor"/>
+  <properties
+      key="Mantenedor"/>
+  <properties
+      key="Data Inicial de Implantação"/>
+</archimate:ApplicationComponent>

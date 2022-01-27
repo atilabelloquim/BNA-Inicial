@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1. Metamodelo da Arquitetura"
+    id="id-386158f4474a4f98a85ea3c34bc5d867">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-7dc4cf1f3e274a9784710fea707454cb">
+    <bounds
+        x="253"
+        y="147"
+        width="331"
+        height="189"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-aa85d26395c447209a04d855f0b2f817.xml#id-aa85d26395c447209a04d855f0b2f817"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-a3ac3c79da7641cd9312c444cf913f7d">
+    <bounds
+        x="624"
+        y="147"
+        width="331"
+        height="189"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-71ef5356696b451781a97d11c4b6a34c.xml#id-71ef5356696b451781a97d11c4b6a34c"/>
+  </children>
+  <properties/>
+</archimate:ArchimateDiagramModel>

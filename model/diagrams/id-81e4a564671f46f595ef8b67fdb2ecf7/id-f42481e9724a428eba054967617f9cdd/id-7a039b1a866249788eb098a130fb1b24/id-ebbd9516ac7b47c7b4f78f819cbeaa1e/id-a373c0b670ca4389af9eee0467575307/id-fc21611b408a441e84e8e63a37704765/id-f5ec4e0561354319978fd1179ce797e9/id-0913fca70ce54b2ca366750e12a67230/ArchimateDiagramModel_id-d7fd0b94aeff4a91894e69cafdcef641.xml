@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sistema de Pedidos"
+    id="id-d7fd0b94aeff4a91894e69cafdcef641">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2ee02501ffe24313b98c8b0e3c44fdcb"
+      targetConnections="id-c5b6827bcf9c44fbbee7d4b36d1d6633">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-3851a548e3f84d51a08abe8ba0084c63.xml#id-3851a548e3f84d51a08abe8ba0084c63"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4de3842b0b504803ac53f3e9d8e50936">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c5b6827bcf9c44fbbee7d4b36d1d6633"
+        source="id-4de3842b0b504803ac53f3e9d8e50936"
+        target="id-2ee02501ffe24313b98c8b0e3c44fdcb">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-c5da8e49730441268d658abc70ff9d1e.xml#id-c5da8e49730441268d658abc70ff9d1e"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-1e8eef52559842c98859501ea349245d.xml#id-1e8eef52559842c98859501ea349245d"/>
+  </children>
+</archimate:ArchimateDiagramModel>

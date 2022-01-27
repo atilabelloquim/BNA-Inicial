@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Controle de Estoques"
+    id="id-b6452abbfb31499abd634ab31f615658">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7b72d31cde4f422291a7400825601865"
+      targetConnections="id-62ef0596a7a340aeb6198c58948daecd">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-d820b40debcb4747bc59e9e74d1366d8.xml#id-d820b40debcb4747bc59e9e74d1366d8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-bec7339475bf4374b678087c4feb56b1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-62ef0596a7a340aeb6198c58948daecd"
+        source="id-bec7339475bf4374b678087c4feb56b1"
+        target="id-7b72d31cde4f422291a7400825601865">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-2e4091775f7f46d7950aaa91c4969b11.xml#id-2e4091775f7f46d7950aaa91c4969b11"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-3fdd7da355b940a5928a732920c7f2c6.xml#id-3fdd7da355b940a5928a732920c7f2c6"/>
+  </children>
+</archimate:ArchimateDiagramModel>

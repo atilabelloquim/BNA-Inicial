@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Map"
+    id="id-6ec51efd8c644e31bd8278fa27e69917">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9d39ef2357864a4aae8248cb3b4f86b3">
+    <bounds
+        x="192"
+        y="131"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-6e96ff4d0d1441d1b135ff0344aa2a54.xml#id-6e96ff4d0d1441d1b135ff0344aa2a54"/>
+  </children>
+</archimate:ArchimateDiagramModel>
